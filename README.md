@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marion (@MB-97)
-- 👀 I’m interested in Atmospheric aerosols in the SWIO basin and programming/scientifics tools as MATLAB, LaTex and Python (I'll try...)
+- 👀 I’m interested in atmospheric aerosols in the SWIO basin and programming/scientific languages/tools like MATLAB, LaTex and bash. (I'll try Python one day).
 - 🌱 I am currently a 2nd PhD student at LACy, University of La Réunion
 - 📫 How to reach me: marion.ranaivombola@gmail.com
 
